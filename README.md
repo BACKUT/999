@@ -410,7 +410,7 @@
 
     <!-- 域名区 + 按钮区（手机友好大按钮） -->
     <div class="domain-section">
-        <div class="site" id="domainText">kohuuu.github.io/2.1/</div>
+        <div class="site" id="domainText">backut.github.io/AI.5.1/</div>
         <div class="btn-copy" id="copyBtn">
             📋 一键复制域名
         </div>
@@ -453,7 +453,7 @@
 
 <script>
     (function() {
-        const DOMAIN = "kohuuu.github.io/2.1/";
+        const DOMAIN = "backut.github.io/AI.5.1/";
         const domainElement = document.getElementById("domainText");
         const copyButton = document.getElementById("copyBtn");
         const toastEl = document.getElementById("toast");
